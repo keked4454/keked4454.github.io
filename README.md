@@ -2,7 +2,11 @@
 
 One-page static personal website for Sicheng Qiu (邱思成), also known online as keked. It uses plain HTML, CSS and JavaScript with no framework, bundler or build step.
 
-## Run and deploy
+## Live website
+
+https://keked4454.github.io/
+
+## Run locally
 
 From the directory above `site/`:
 
